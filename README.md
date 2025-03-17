@@ -3,7 +3,7 @@
 📞 9648777660 | ✉️ abhisingh05111999@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhishek-singh-95bba91b3)  
 
 ## About Me  
-QA Engineer with 3+ years in **manual and automation testing**. I specialize in **Selenium, Postman, and tools like n8n and MABL**, building frameworks that slash regression time by **60%** and enhance product quality. Experienced in **web, mobile, and API testing**. Open to **freelance projects** and **full-time roles**.  
+QA Engineer with 3+ years in **manual and automation testing**. I specialize in **Selenium, Postman, and tools like n8n and MABL**, building frameworks that slashed regression time by **60%** and enhanced product quality. Experienced in **web, mobile, and API testing**. Open to **freelance projects** and **full-time roles**.  
 
 ## 🔹 Key Skills  
 - **Automation**: Selenium WebDriver, MABL, Appium  
@@ -18,21 +18,23 @@ QA Engineer with 3+ years in **manual and automation testing**. I specialize in 
 ### 📌 Enterprise CRM Solution  
 **QA Engineer | April 2022 - March 2023**  
 - **Tools**: Selenium, Postman  
-- Automated CRM workflows and supply chain integrations.  
-- **Impact**: Cut manual testing by **40%**, hit **99.5% reliability**.  
+- Created manual test cases and API documentation for CRM features.  
+- Automated workflows with Selenium and Postman for regression testing.  
+- **Impact**: Cut manual testing efforts by **40%**, achieved **99.5% reliability**.  
 
 ### 📌 E-Commerce Platform  
 **QA Engineer | March 2023 - Feb 2024**  
-- **Tools**: Selenium, Appium  
-- Built UI automation for checkout process.  
-- Validated order management APIs.  
-- **Impact**: Reduced defects by **35%**, ensured **cross-device compatibility**.  
+- **Tools**: Selenium, Appium, Postman  
+- Wrote test scenarios and performed manual testing across browsers and devices.  
+- Built UI automation with Selenium and API tests with Postman.  
+- **Impact**: Reduced checkout defects by **35%**, ensured **cross-device compatibility**.  
 
 ### 📌 Low-Code Workflow Platform  
 **QA Engineer | Feb 2024 - Present**  
 - **Tools**: MABL, Postman, n8n  
-- Automated web/API testing and n8n workflows.  
-- **Impact**: Slashed regression by **60%**, boosted efficiency by **35%**.  
+- Automated web and API testing with MABL, cutting manual regression by **60%**.  
+- Built n8n workflows to optimize data pipelines, improving efficiency by **35%**.  
+- **Impact**: Delivered faster testing cycles and optimized operations.  
 
 ## 🔹 Achievements  
 ✅ Saved **50+ hours per release** with automation scripts.  
@@ -42,4 +44,4 @@ QA Engineer with 3+ years in **manual and automation testing**. I specialize in 
 ## 📞 Contact  
 Need a **QA expert** for web, mobile, or API testing? I deliver **fast, efficient, scalable automation**.  
 📩 **Email:** abhisingh05111999@gmail.com  
-*Let’s build quality together—reach out for your next project!*  
+**Looking to enhance software quality? Let’s connect!**  
